@@ -219,3 +219,8 @@ You can change the appearance of the speaker notes by editing the file at `plugi
 MIT licensed
 
 Copyright (C) 2011-2012 Hakim El Hattab, http://hakim.se
+=======
+IntroPlay
+=========
+
+Some slides prepared for brown bag.
